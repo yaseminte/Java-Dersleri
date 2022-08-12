@@ -19,7 +19,7 @@ public class C02_MapsMethodIle {
         List<String> sinifIsimSoyisimList = ReusableMethods.isimSoyisimListesiOlustur(ogrenciMap);
         System.out.println("isim soyisim listesi : " + sinifIsimSoyisimList);
 
-        // kac farkli brans varsa bransIsmi = branstakiOgrenciSayisi seklinde yazdirin
+
 
     }
 
